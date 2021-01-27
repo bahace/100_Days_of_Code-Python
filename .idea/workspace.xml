@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="test">
+    <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Updated with a one-liner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/Printing/Printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/01-Printing/Printing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/Printing/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/01-Printing/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <recent name="C:\Users\joeyadm\Desktop\Python\100_Days_of_Code-Python\01-Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Inputs">
+  <component name="RunManager" selected="Python.Variables">
     <configuration name="Debugging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_of_Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +114,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_of_Code-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/04-Variables" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_001-Working with Variables in Python to Manage Data/04-Variables/Variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_Days_of_Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,6 +158,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Variables" />
         <item itemvalue="Python.Inputs" />
         <item itemvalue="Python.Debugging" />
         <item itemvalue="Python.Printing" />
@@ -161,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611782233079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1611783116393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611783116393</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated with a one-liner">
+      <created>1611783205843</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611783205843</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +211,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Updated with a one-liner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with a one-liner" />
   </component>
 </project>
