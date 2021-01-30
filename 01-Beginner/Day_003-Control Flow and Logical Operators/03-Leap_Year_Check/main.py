@@ -22,3 +22,15 @@ if check1 == 0:
 else:
     # print (f"The Year {year} is not cleanly divisible by 4, this is not a leap year")
     print("Not leap year")
+
+# Instructor resolution
+# if year % 4 == 0:
+#     if year % 100 == 0:
+#         if year % 400 == 0:
+#             print("Leap Year")
+#         else:
+#             print("Not Leap Year")
+#     else:
+#         print("Leap Year")
+# else:
+#     print("Not Leap Year")

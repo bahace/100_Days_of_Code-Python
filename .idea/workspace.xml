@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/03-Leap_Year_Check/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/03-Leap_Year_Check/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
       <recent name="C:\Users\joeyadm\Desktop\Python\100_Days_of_Code-Python\01-Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (6)">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="Day_3_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_of_Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_002-Understanding Data Types and How to Manipulate Strings/03-Life_in_Weeks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/04-Pizza_Order" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_002-Understanding Data Types and How to Manipulate Strings/03-Life_in_Weeks/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/04-Pizza_Order/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.Day_3_Notes" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.Day_3_Notes" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612024014774</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="day 3 ex2 complete">
+      <created>1612025715939</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612025715939</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
