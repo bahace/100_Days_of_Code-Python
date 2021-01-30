@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/03-Leap_Year_Check/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/03-Leap_Year_Check/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/04-Pizza_Order/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/04-Pizza_Order/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612025715939</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="day 3 ex4 complete">
+      <created>1612027838270</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612027838270</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,6 +296,7 @@
     <MESSAGE value="day 3 start" />
     <MESSAGE value="finished day3ex1" />
     <MESSAGE value="day 3 ex2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 ex2 complete" />
+    <MESSAGE value="day 3 ex4 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 ex4 complete" />
   </component>
 </project>

@@ -24,3 +24,10 @@ if extra_cheese == "Y":
     bill += 1
 
 print(f"Your total bill is ${bill}")
+
+# Other way for pep charge
+# if add_pepperoni == "Y":
+#     if size == "S"
+#         bill += 2
+#     else:
+#         bill += 3
