@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/Day_3_Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="C:\Users\joeyadm\Desktop\Python\100_Days_of_Code-Python\01-Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="Day_3_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_of_Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/02-BMI_Calc_2.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/06-Treasure_Island" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/02-BMI_Calc_2.0/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/06-Treasure_Island/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.Day_3_Notes" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main (6)" />
-        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612028161688</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 3 ex5, nailed it">
+      <created>1612056546561</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612056546561</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +311,7 @@
     <MESSAGE value="finished day3ex1" />
     <MESSAGE value="day 3 ex2 complete" />
     <MESSAGE value="day 3 ex4 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 ex4 complete" />
+    <MESSAGE value="Day 3 ex5, nailed it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 ex5, nailed it" />
   </component>
 </project>
