@@ -36,16 +36,16 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 print("Welcome to Find Cody.")
 print("Your mission is to find Cody, he is lost.")
-fork_decision = input("You are at a fork in the road, which way do you go? Left or Right? ")
+fork_decision = input("You are at a fork in the road, which way do you go? Left or Right? \n")
 fork_decision = fork_decision.lower()
 
 if fork_decision == "right":
     print("You've come to a small lake with an island in the center")
-    lake_decision = input("Do you swim or wait for the ferry? ")
+    lake_decision = input("Do you swim or wait for the ferry? \n")
     lake_decision = lake_decision.lower()
     if lake_decision == "swim":
         print("Good call, a ferry comes 10min later and takes you the island")
-        door_decision = input("You find a house with 3 colored doors inside, Which one do you choose? Red, Yellow, or Blue? ")
+        door_decision = input("You find a house with 3 colored doors inside, Which one do you choose? Red, Yellow, or Blue? \n")
         door_decision = door_decision.lower()
         if door_decision == "red":
             print(dog)
