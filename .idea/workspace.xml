@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/02-Who_is_paying_the_bill/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/02-Who_is_paying_the_bill/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612141287068</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="day 4. fist 2 exercises.">
+      <created>1612145237083</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612145237083</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fixed d4 ex2, it wasnt ever choosing the last person in the list.">
+      <created>1612145319554</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612145319554</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,6 +358,8 @@
     <MESSAGE value="day3 ex6, find cody!" />
     <MESSAGE value="small formatting updates" />
     <MESSAGE value="small formatting updates - day3" />
-    <option name="LAST_COMMIT_MESSAGE" value="small formatting updates - day3" />
+    <MESSAGE value="day 4. fist 2 exercises." />
+    <MESSAGE value="fixed d4 ex2, it wasnt ever choosing the last person in the list." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed d4 ex2, it wasnt ever choosing the last person in the list." />
   </component>
 </project>
