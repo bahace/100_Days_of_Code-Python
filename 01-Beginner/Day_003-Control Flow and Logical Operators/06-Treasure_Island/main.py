@@ -41,10 +41,10 @@ fork_decision = fork_decision.lower()
 
 if fork_decision == "right":
     print("You've come to a small lake with an island in the center")
-    lake_decision = input("Do you swim or wait for the ferry? \n")
+    lake_decision = input('Do you "swim" or "wait" for the ferry? \n')
     lake_decision = lake_decision.lower()
     if lake_decision == "swim":
-        print("Good call, a ferry comes 10min later and takes you the island")
+        print("Good call, there's no ferry anyway.")
         door_decision = input("You find a house with 3 colored doors inside, Which one do you choose? Red, Yellow, or Blue? \n")
         door_decision = door_decision.lower()
         if door_decision == "red":
