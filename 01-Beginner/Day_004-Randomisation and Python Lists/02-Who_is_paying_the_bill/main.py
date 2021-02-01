@@ -5,6 +5,7 @@ names = names_string.split(", ")
 
 # Write your code below this line 👇
 import random
+
 # get the number of people in the list just entered
 number_of_people = len(names)
 # generate a random number that has the same range as integer amount of people in the list
