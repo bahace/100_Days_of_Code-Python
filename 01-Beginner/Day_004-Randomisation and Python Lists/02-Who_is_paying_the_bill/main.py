@@ -8,7 +8,7 @@ import random
 print(names)
 number_of_people = len(names)
 print(number_of_people)
-random_draw = random.randint(1, number_of_people)
+random_draw = random.randint(0, number_of_people - 1)
 bill_payer = names[random_draw]
 message = f"{bill_payer} is going to buy the meal today!"
 print(message)
