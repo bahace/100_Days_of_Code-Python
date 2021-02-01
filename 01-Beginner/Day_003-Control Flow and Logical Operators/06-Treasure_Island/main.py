@@ -11,7 +11,6 @@ dog = '''
 **********************************
 '''
 
-
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -51,7 +50,7 @@ if fork_decision == "right":
             print(dog)
             print("You found Cody! You win!")
         elif door_decision == "yellow":
-            print("A witch traps you in a book and takes you the island of Myst, you lost")
+            print("A witch traps you in a book and takes you the island of Myst, you lose.")
         elif door_decision == "blue":
             print("You should never pick blue, you lose")
         else:
