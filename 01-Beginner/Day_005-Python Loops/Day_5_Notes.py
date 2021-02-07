@@ -8,3 +8,4 @@ for item in fruits:
     print(fruits)
 # outside
 print(fruits)
+# inside for loops, its proper form to name it the singular form of the list. fruit for list of fruits.
