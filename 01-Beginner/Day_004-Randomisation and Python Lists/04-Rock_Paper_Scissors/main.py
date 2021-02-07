@@ -29,7 +29,7 @@ scissors = '''
 
 # get what the human will throw, convert to int
 human_throw = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors. \n"))
-if human_throw > 3 or human_throw < 0:
+if human_throw >= 3 or human_throw < 0:
     print("Invalid Number, you lose")
     exit()
 
