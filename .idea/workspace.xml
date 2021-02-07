@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/02-Who_is_paying_the_bill/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/02-Who_is_paying_the_bill/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/Day_4_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/Day_4_Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="C:\Users\joeyadm\Desktop\Python\100_Days_of_Code-Python\01-Beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="Day_4_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_Days_of_Code-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,32 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/05-Love_Calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/04-Rock_Paper_Scissors" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/05-Love_Calculator/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_Days_of_Code-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/06-Treasure_Island" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_003-Control Flow and Logical Operators/06-Treasure_Island/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/04-Rock_Paper_Scissors/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,6 +129,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/01-Heads_or_Tails/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_Days_of_Code-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/03-Treasure_Map" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/03-Treasure_Map/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.Day_4_Notes" />
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (6)" />
+        <item itemvalue="Python.Day_4_Notes" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -330,7 +331,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612145319554</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added notes.">
+      <created>1612145458984</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612145458984</updated>
+    </task>
+    <task id="LOCAL-00021" summary="formatting update.">
+      <created>1612145786284</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1612145786284</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -360,6 +375,8 @@
     <MESSAGE value="small formatting updates - day3" />
     <MESSAGE value="day 4. fist 2 exercises." />
     <MESSAGE value="fixed d4 ex2, it wasnt ever choosing the last person in the list." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed d4 ex2, it wasnt ever choosing the last person in the list." />
+    <MESSAGE value="added notes." />
+    <MESSAGE value="formatting update." />
+    <option name="LAST_COMMIT_MESSAGE" value="formatting update." />
   </component>
 </project>
