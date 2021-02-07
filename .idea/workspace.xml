@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f36af68-31b3-4e8f-99da-fd7c14d70b11" name="Default Changelist" comment="Day 2  updates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/Day_4_Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/Day_4_Notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/04-Rock_Paper_Scissors/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-Beginner/Day_004-Randomisation and Python Lists/04-Rock_Paper_Scissors/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -345,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612145786284</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="finished day 4.">
+      <created>1612657078870</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1612657078870</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,6 +383,7 @@
     <MESSAGE value="fixed d4 ex2, it wasnt ever choosing the last person in the list." />
     <MESSAGE value="added notes." />
     <MESSAGE value="formatting update." />
-    <option name="LAST_COMMIT_MESSAGE" value="formatting update." />
+    <MESSAGE value="finished day 4." />
+    <option name="LAST_COMMIT_MESSAGE" value="finished day 4." />
   </component>
 </project>
