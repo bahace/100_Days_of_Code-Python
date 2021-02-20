@@ -6,9 +6,10 @@ def turn_right():
 
 
 while at_goal() != True:
-    if front_is_clear():
-        move()
-    elif right_is_clear():
+    if right_is_clear():
         turn_right()
+        move()
+    elif front_is_clear():
+        move()
     else:
         turn_left()
