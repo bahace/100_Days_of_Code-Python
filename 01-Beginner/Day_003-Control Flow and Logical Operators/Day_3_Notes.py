@@ -1,4 +1,4 @@
-## Notes for 3.27
+# Notes for 3.27
 print("Welcome to the rollercoaster!")
 height = int(input("What is your height in cm? "))
 bill = 0
@@ -22,7 +22,7 @@ bill = 0
 # modulo gives you the remainder
 
 
-## Notes for 3.29
+# Notes for 3.29
 # nested if statements.
 # if height > 120:
 #     print("you can ride!")
@@ -50,7 +50,7 @@ bill = 0
 #     print("you need to grow a little more")
 #
 
-## Notes for 3.32 - multiple IF statements.
+# Notes for 3.32 - multiple IF statements.
 # if height > 120:
 #     print("you can ride!")
 #     age = int(input("What is your age?"))
@@ -74,11 +74,11 @@ bill = 0
 # else:
 #     print("you need to grow a little more")
 
-## Notes for 3.34 Logical Operators
+# Notes for 3.34 Logical Operators
 # and - both must be true
 # or - one option must be true
 # not - the opposite
-if height > 120:
+if height >= 120:
     print("you can ride!")
     age = int(input("What is your age?"))
     if age < 12:
@@ -87,17 +87,17 @@ if height > 120:
     elif age <= 18:
         print("Youth tickets are $7")
         bill = 7
-    elif age >= 45 and age <= 55:
+    elif 45 <= age <= 55:
         print("you are in midlife crisis, have free ticket!")
-        bill == 0
+        bill = 0
     else:
         print("Adult tickets are $12")
         bill = 12
-    wants_photo = input("Do you want a photo taken? Y or N. ")
+    wants_photo = input('Do you want a photo taken? Y or N. ')
     if wants_photo == "Y":
         # Add $3 to bill
         # bill = bill + 3
-        bill += 3 # same as above, but shorter
+        bill += 3  # same as above, but shorter
 
     print(f"Your final bill is ${bill}")
 
